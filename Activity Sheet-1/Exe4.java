@@ -10,4 +10,4 @@ class Exe4
 	    	System.out.println(Year+" is Not a Leap Year");  // Strings Method
 	}
 
-}
+} 
