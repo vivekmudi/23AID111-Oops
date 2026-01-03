@@ -15,7 +15,7 @@ class Exe11
 	    	break;
 	       case 2:
 	    	System.out.printf("Result = %.2f",N1-N2);
-	    	break;
+	    	break; 
 	       case 3:
 	    	System.out.printf("Result = %.2f",N1*N2);
 	    	break;
