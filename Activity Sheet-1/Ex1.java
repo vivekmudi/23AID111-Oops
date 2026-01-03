@@ -9,5 +9,5 @@ class Ex1  // class name should be same as file name
 		   System.out.print("Pass");
 	   else
 		   System.out.print("Fail");
-	}	
+	}	 
 }
