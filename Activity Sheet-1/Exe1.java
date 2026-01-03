@@ -9,4 +9,4 @@ class Exe1
 	     else
 	    	 System.out.println("You are Not Eligible to Vote");
 	}
-}
+} 
