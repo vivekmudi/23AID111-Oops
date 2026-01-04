@@ -13,6 +13,6 @@ class Exe7
         }
 	    System.out.printf("sum of all even numbers from 1 to %d is %d",N,sum);
    }
-}
+} 
 /* for loop
    for(i=1;i<=n;i++)  */ 
