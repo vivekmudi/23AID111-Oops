@@ -16,4 +16,4 @@ class Exe10
 	    else 
 	    	System.out.println("Given Number is Not a Palindrome");
 	}
-}
+} 
