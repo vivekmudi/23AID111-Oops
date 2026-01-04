@@ -12,6 +12,6 @@ class Exe6
 	
 	}
 	
-}
+} 
 /* for loop
    for(i=1;i<=100;i++) */
